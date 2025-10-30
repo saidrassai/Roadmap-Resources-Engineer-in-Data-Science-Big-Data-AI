@@ -1,15 +1,13 @@
-# Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI
-
-# 🚀 Roadmap & Resources: Engineer in Data Science, Big Data & AI
+# Roadmap & Resources: Engineer in Data Science, Big Data & AI
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/pulls)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/said-rassai/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/your-twitter-handle)
-
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 [![Community](https://img.shields.io/badge/Community-MDS-blue.svg)](https://rassaisaid.me)
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-red)](https://github.com/sponsors/saidrassai)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue)]()
 
 ---
@@ -41,13 +39,17 @@ Morocco's data science and AI talent market presents a paradoxical challenge: **
 
 ### 🔍 The Numbers: Education-Market Skills Gap Analysis
 
+### 📊 Data-Driven Evidence (2025)
+
 #### Critical Findings
 
 **Market Size & Growth:**
-- **250-300 active job postings** for Data Science, Big Data, and AI roles in Morocco (October 2025)
-- **45% year-over-year growth** in hiring demand (2023-2025)
+- **250-300 active job postings** for Data Science, Big Data, and AI roles in Morocco (Indeed.ma, Emploi.ma, Oct 2025)
+- **45% year-over-year growth** in hiring demand (2023-2025) (State of Dev Morocco)
+- **Data Center Growth**: 6.2% CAGR 2024-2030 (IndustryARC)
 - **150+ companies actively recruiting** across all sectors
 - **65-70% talent shortage**: Two-thirds of positions remain unfilled due to skill gaps
+- **ML Market**: $113.36 million USD (Statista 2025)
 - **Youth unemployment paradox**: 37.7% overall (ages 15-24), but only 10-15% among those with certified technical skills
 
 #### The Skills Gap Crisis
@@ -65,7 +67,13 @@ Morocco's data science and AI talent market presents a paradoxical challenge: **
 | **Communication Skills** | 40% | 80% | 40% | ⚠️ HIGH |
 | **Python Programming** | 85% | 95% | 10% | ✅ LOW |
 
-**[See visualization chart: Education vs Market Demand Skills Gap](#charts)**
+[See: 06_DATA_ANALYSIS/Morocco_Market_Analysis_2025/]
+<p align="center">
+  <img src="./images/charts/skills_gap_analysis.png" alt="Skills Gap Analysis" width="700"/> 
+</p>
+
+**Data Source**: Aggregated from Statista, IndustryARC, Morocco Labor Ministry 2025
+
 
 #### Why Graduates Struggle
 
