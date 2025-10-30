@@ -1,15 +1,24 @@
-# Roadmap & Resources: Engineer in Data Science, Big Data & AI
+# Roadmap & Resources: Engineer in Data Science, Big Data, ML & AI
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/pulls)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/said-rassai/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/MoonHeead)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@saidrassai)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
-[![Community](https://img.shields.io/badge/Community-MDS-blue.svg)](https://rassaisaid.me)
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤-red)](https://github.com/sponsors/saidrassai)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue)]()
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+  <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg"></a>
+  <img src="https://img.shields.io/badge/Last%20Updated-October%202025-blue">
+</p>
+
+<p align="center">
+  <a href="https://github.com/saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
+  <a href="./CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
+  <a href="https://github.com/sponsors/saidrassai"><img src="https://img.shields.io/badge/Sponsor-❤-red"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/said-rassai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://twitter.com/MoonHeead"><img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter"></a>
+  <a href="https://medium.com/@saidrassai"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium"></a>
+  <a href="https://rassaisaid.me"><img src="https://img.shields.io/badge/Community-MDS-blue.svg"></a>
+</p>
+
 
 ---
 
