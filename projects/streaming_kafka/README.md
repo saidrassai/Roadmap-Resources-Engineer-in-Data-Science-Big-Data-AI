@@ -1,4 +1,3 @@
-```bash
 project-name/
 ├── data/               # Raw and processed data
 ├── notebooks/          # Jupyter notebooks for EDA
@@ -12,4 +11,3 @@ project-name/
 ├── requirements.txt
 ├── README.md          # Comprehensive documentation in French/English
 └── docs/              # Additional documentation
-```
