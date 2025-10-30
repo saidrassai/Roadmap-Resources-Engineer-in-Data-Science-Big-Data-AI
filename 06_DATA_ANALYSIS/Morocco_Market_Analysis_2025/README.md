@@ -29,7 +29,7 @@ See `/06_DATA_ANALYSIS/Morocco_Market_Analysis_2025/` for:
 | Developer Stats | State of Dev Morocco | Dec 2024 |
 | Labor Stats | Morocco Ministry of Labor | Q1 2025 |
 
-**Full Bibliography**: [Data_Methodology.md](06_DATA_ANALYSIS/Research_Reports/Data_Methodology.md)
+**Full Bibliography**: [Data_Methodology.md](/06_DATA_ANALYSIS/Research_Reports/Data_Methodology.md)
 
 ### How We Analyze Data
 
