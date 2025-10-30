@@ -3,6 +3,7 @@
 # 🚀 Roadmap & Resources: Engineer in Data Science, Big Data & AI
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 [![Moroccan Data Scientists Community](https://img.shields.io/badge/Community-MDS-blue.svg)](https://moroccands.com)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue)]()
