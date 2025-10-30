@@ -1,0 +1,8 @@
+Job_Title,Avg_Monthly_Salary_MAD,Salary_Range_MAD,Job_Postings_Available,Required_Experience,Top_Tech_Stack,French_Required
+Data Engineer,10500,8000-15000,120,0-2 years,"Python, Spark, SQL, AWS",Essential (90%)
+Junior Data Scientist,9500,8000-12000,95,0-1 years,"Python, ML Frameworks, SQL",Essential (95%)
+ML Engineer,12000,10000-18000,45,1-3 years,"Python, TensorFlow, PyTorch",High (85%)
+Data Analyst,8500,7000-11000,110,0-1 years,"SQL, Power BI, Excel",Essential (98%)
+Senior Python Dev,11000,9000-13000,85,1-2 years,"Python, Django/FastAPI, Docker",Essential (92%)
+Cloud Engineer,10000,8500-14000,75,0-2 years,"AWS/Azure, Kubernetes, IaC",High (80%)
+Analytics Specialist,8800,7500-10500,65,0-1 years,"SQL, Tableau, Python",Essential (96%)

@@ -1,0 +1,11 @@
+Topic,University_Coverage,Industry_Demand,Learning_Depth,Practical_Experience
+Python Programming,85%,98%,Moderate,Limited
+SQL & Databases,75%,95%,Shallow,Limited
+Machine Learning,60%,85%,Moderate,Projects Only
+Cloud Computing,15%,75%,None/Minimal,Absent
+Big Data (Spark),35%,80%,Shallow,Absent
+DevOps/Docker,10%,65%,Minimal,Absent
+Statistics,90%,70%,Deep,Theory Only
+System Design,40%,75%,Shallow,Limited
+Communication Skills,30%,85%,Minimal,Absent
+French Language,10%,98%,Minimal,Absent

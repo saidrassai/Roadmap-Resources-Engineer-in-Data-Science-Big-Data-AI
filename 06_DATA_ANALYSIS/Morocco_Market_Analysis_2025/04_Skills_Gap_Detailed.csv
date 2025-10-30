@@ -1,0 +1,9 @@
+Skill_Category,University_Coverage,Market_Demand,Gap,Salary_Premium,Availability
+Cloud Computing,15%,78%,63%,+25-30%,Very Low
+Data Science/AI,40%,72%,32%,+20-25%,Low
+Cybersecurity,5%,65%,60%,+30-40%,Critical
+Software Dev,70%,85%,15%,+10-15%,Moderate
+Data Engineering,25%,80%,55%,+20-25%,Low
+DevOps/MLOps,8%,55%,47%,+25-30%,Very Low
+Big Data,30%,70%,40%,+15-20%,Low
+Digital Skills,20%,80%,60%,+15-20%,Moderate
