@@ -4,8 +4,12 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/saidrassai/Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/pulls)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/said-rassai/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/your-twitter-handle)
+
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
-[![Moroccan Data Scientists Community](https://img.shields.io/badge/Community-MDS-blue.svg)](https://moroccands.com)
+[![Community](https://img.shields.io/badge/Community-MDS-blue.svg)](https://rassaisaid.me)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue)]()
 
 ---
@@ -642,8 +646,8 @@ Our data shows that well-prepared candidates with strong portfolios and professi
 
 ### 🇲🇦 Made with ❤️ for Morocco's Data Science Engineers
 
-**[Join the Community](https://moroccands.com) · [View Roadmap](./00_ROADMAPS/) · [Contribute](./CONTRIBUTING.md) · [License](./LICENSE)**
+**[Join the Community]() · [View Roadmap](./00_ROADMAPS/) · [Contribute](./CONTRIBUTING.md) · [License](./LICENSE)**
 
-**Last Updated:** October 2025 | **Maintained by:** Moroccan Data Scientists Community
+**Last Updated:** October 2025 | **Maintained by:** RASSAI SAID & Community
 
 </div>
