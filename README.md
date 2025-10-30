@@ -89,6 +89,10 @@ Morocco's data science and AI talent market presents a paradoxical challenge: **
 - **Weak French + strong technical**: 8,000 MAD/month (150-day employment)
 
 **Key Insight**: A student with a **strong portfolio can secure employment 5x faster** and earn **60% more** than a similarly educated peer without practical projects.
+[See: 06_DATA_ANALYSIS/Morocco_Market_Analysis_2025/](./06_DATA_ANALYSIS/Morocco_Market_Analysis_2025)
+<p align="center">
+  <img src="06_DATA_ANALYSIS/images/charts/success_metrics_dashboard.png" alt="Success metrics dashboard" width="700"/> 
+</p>
 
 ### 💡 Root Cause Analysis: Where Universities Fall Short
 
@@ -125,6 +129,10 @@ Morocco's data science and AI talent market presents a paradoxical challenge: **
 - **Production/Engineering-focused roles**: 60% (require cloud, Docker, MLOps)
 - **Analytics-focused roles**: 25% (emphasize BI tools, SQL, communication)
 - **Research/Advanced ML**: 15% (deep learning, specialized algorithms)
+[See: 06_DATA_ANALYSIS/Morocco_Market_Analysis_2025/](./06_DATA_ANALYSIS/Morocco_Market_Analysis_2025/)
+<p align="center">
+  <img src="06_DATA_ANALYSIS/images/charts/job_market_analysis.png" alt="jJob Market Analysis" width="700"/> 
+</p>
 
 ---
 
