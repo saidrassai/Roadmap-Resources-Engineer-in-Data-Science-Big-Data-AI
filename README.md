@@ -69,7 +69,7 @@ Morocco's data science and AI talent market presents a paradoxical challenge: **
 
 [See: 06_DATA_ANALYSIS/Morocco_Market_Analysis_2025/]
 <p align="center">
-  <img src="./images/charts/skills_gap_analysis.png" alt="Skills Gap Analysis" width="700"/> 
+  <img src="images/charts/skills_gap_analysis.png" alt="Skills Gap Analysis" width="700"/> 
 </p>
 
 **Data Source**: Aggregated from Statista, IndustryARC, Morocco Labor Ministry 2025
