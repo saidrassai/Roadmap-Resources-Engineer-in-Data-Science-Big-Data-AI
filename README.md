@@ -66,16 +66,16 @@ Morocco's data science and AI talent market presents a paradoxical challenge: **
 
 | Skill | University Coverage | Market Demand | Gap | Priority |
 |-------|-------------------|---------------|----|----------|
-| **Cloud Computing (AWS/Azure)** | 15% | 75% | **60%** | 🚨 CRITICAL |
-| **French Language Skills** | 10% | 98% | **88%** | 🚨 CRITICAL |
-| **ETL Pipeline Development** | 25% | 85% | **60%** | 🚨 CRITICAL |
-| **Data Engineering** | 30% | 85% | **55%** | 🚨 CRITICAL |
-| **Apache Spark/Big Data** | 35% | 80% | 45% | ⚠️ HIGH |
-| **Docker/Containerization** | 20% | 65% | 45% | ⚠️ HIGH |
-| **ML Deployment/MLOps** | 10% | 60% | 50% | ⚠️ HIGH |
-| **Data Visualization Tools** | 45% | 80% | 35% | ⚠️ HIGH |
-| **Communication Skills** | 40% | 80% | 40% | ⚠️ HIGH |
-| **Python Programming** | 85% | 95% | 10% | ✅ LOW |
+| **Cloud Computing (AWS/Azure)** | 15% | 75% | **60%** |  CRITICAL |
+| **French Language Skills** | 10% | 98% | **88%** |  CRITICAL |
+| **ETL Pipeline Development** | 25% | 85% | **60%** |  CRITICAL |
+| **Data Engineering** | 30% | 85% | **55%** | CRITICAL |
+| **Apache Spark/Big Data** | 35% | 80% | 45% |  HIGH |
+| **Docker/Containerization** | 20% | 65% | 45% |  HIGH |
+| **ML Deployment/MLOps** | 10% | 60% | 50% |  HIGH |
+| **Data Visualization Tools** | 45% | 80% | 35% |  HIGH |
+| **Communication Skills** | 40% | 80% | 40% |  HIGH |
+| **Python Programming** | 85% | 95% | 10% |  LOW |
 
 [See: 06_DATA_ANALYSIS/Morocco_Market_Analysis_2025/]
 <p align="center">
@@ -104,36 +104,36 @@ Morocco's data science and AI talent market presents a paradoxical challenge: **
   <img src="06_DATA_ANALYSIS/images/charts/success_metrics_dashboard.png" alt="Success metrics dashboard" width="700"/> 
 </p>
 
-### 💡 Root Cause Analysis: Where Universities Fall Short
+###  Root Cause Analysis: Where Universities Fall Short
 
 **Moroccan engineering schools excel at:**
-- ✅ Mathematical theory and algorithms
-- ✅ Core computer science principles
-- ✅ Single-machine data processing (Pandas, NumPy)
-- ✅ Basic machine learning concepts
+-  Mathematical theory and algorithms
+-  Core computer science principles
+-  Single-machine data processing (Pandas, NumPy)
+-  Basic machine learning concepts
 
 **But systematically neglect:**
-- ❌ **Cloud platforms** (AWS, Azure, Google Cloud) - Only 15% curriculum coverage
-- ❌ **Production deployment skills** (Docker, CI/CD, MLOps) - 10-20% coverage
-- ❌ **French professional communication** - 10% coverage in curriculum
-- ❌ **Distributed systems** (Spark, Hadoop) - 35% coverage
-- ❌ **Real business context** and stakeholder management - 25% coverage
-- ❌ **End-to-end project execution** from problem definition to production
+-  **Cloud platforms** (AWS, Azure, Google Cloud) - Only 15% curriculum coverage
+-  **Production deployment skills** (Docker, CI/CD, MLOps) - 10-20% coverage
+-  **French professional communication** - 10% coverage in curriculum
+-  **Distributed systems** (Spark, Hadoop) - 35% coverage
+-  **Real business context** and stakeholder management - 25% coverage
+-  **End-to-end project execution** from problem definition to production
 
 ### 📈 Job Market Demand Breakdown (Morocco 2025)
 
 **By Employer Sector:**
-- 🏢 **Consulting & Tech Services**: 45 companies (BCG, Capgemini, ALTEN, Accenture, Devoteam)
-- 🏦 **Banking & Finance**: 35 major institutions (CIH Bank, Attijariwafa, BMCE, Société Générale)
-- 📱 **Telecom & Platforms**: 12 companies (Maroc Telecom, Orange Maroc, Inwi)
-- 🚀 **Startups & SMEs**: 25-30 actively hiring with flexible requirements
-- 🏛️ **Government & Semi-Public**: 15 organizations with emerging data initiatives
+-  **Consulting & Tech Services**: 45 companies (BCG, Capgemini, ALTEN, Accenture, Devoteam)
+-  **Banking & Finance**: 35 major institutions (CIH Bank, Attijariwafa, BMCE, Société Générale)
+-  **Telecom & Platforms**: 12 companies (Maroc Telecom, Orange Maroc, Inwi)
+-  **Startups & SMEs**: 25-30 actively hiring with flexible requirements
+-  **Government & Semi-Public**: 15 organizations with emerging data initiatives
 
 **By Position Type (Entry-Level):**
-- 📊 **Junior Data Scientist**: 35% of postings (Salary: 8,000-12,000 MAD)
-- 🔧 **Data Engineer**: 40% of postings (Salary: 9,000-15,000 MAD) ← **Highest demand**
-- 🤖 **ML Engineer**: 15% of postings (Salary: 11,000-18,000 MAD)
-- 📈 **Data Analyst**: 10% of postings (Salary: 7,000-10,000 MAD)
+-  **Junior Data Scientist**: 35% of postings (Salary: 8,000-12,000 MAD)
+-  **Data Engineer**: 40% of postings (Salary: 9,000-15,000 MAD) ← **Highest demand**
+-  **ML Engineer**: 15% of postings (Salary: 11,000-18,000 MAD)
+-  **Data Analyst**: 10% of postings (Salary: 7,000-10,000 MAD)
 
 **By Technical Focus:**
 - **Production/Engineering-focused roles**: 60% (require cloud, Docker, MLOps)
@@ -146,26 +146,26 @@ Morocco's data science and AI talent market presents a paradoxical challenge: **
 
 ---
 
-## 🎓 Understanding This Roadmap: How This Repository is Organized
+##  Understanding This Roadmap: How This Repository is Organized
 
 This repository is structured to serve **multiple audiences with different needs and timelines**:
 
-### 📂 Repository Structure
+###  Repository Structure
 
 ```
 Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/
 │
-├── 📖 README.md (You are here!)
-├── 📋 CONTRIBUTING.md (How to contribute)
-├── 📄 LICENSE (CC BY 4.0)
+├──  README.md (You are here!)
+├──  CONTRIBUTING.md (How to contribute)
+├──  LICENSE (CC BY 4.0)
 │
-├── 📚 00_ROADMAPS/ (Strategic timelines and planning)
+├──  00_ROADMAPS/ (Strategic timelines and planning)
 │   ├── 9-Month Entry Strategy (Nov 2025 - Aug 2026)
 │   ├── 6-Month Intensive Track
 │   ├── 3-Month Fast Track (For experienced developers)
 │   └── Long-term Career Development (2-3 years)
 │
-├── 💻 01_HARD_SKILLS/ (Technical skill building)
+├──  01_HARD_SKILLS/ (Technical skill building)
 │   ├── Python/
 │   │   ├── Core Programming (Pandas, NumPy, Scikit-learn)
 │   │   ├── Advanced Topics (Decorators, Generators, Async)
@@ -208,7 +208,7 @@ Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/
 │       ├── Tableau
 │       └── Python Libraries (Plotly, Matplotlib)
 │
-├── 🧠 02_SOFT_SKILLS/ (Non-technical but crucial)
+├──  02_SOFT_SKILLS/ (Non-technical but crucial)
 │   ├── French Language/
 │   │   ├── Technical Vocabulary (150+ essential terms)
 │   │   ├── Professional Communication
@@ -231,7 +231,7 @@ Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/
 │       ├── Salary Negotiation Guide
 │       └── Mock Interview Scripts
 │
-├── 📜 03_CERTIFICATIONS/ (Free and paid learning paths)
+├──  03_CERTIFICATIONS/ (Free and paid learning paths)
 │   ├── Free Certifications/
 │   │   ├── Kaggle Learn & Competitions
 │   │   ├── Google Cloud Skills Boost
@@ -251,7 +251,7 @@ Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/
 │       ├── Practice tests
 │       └── Success tips
 │
-├── 🚀 04_PORTFOLIO_PROJECTS/ (Real-world project templates)
+├──  04_PORTFOLIO_PROJECTS/ (Real-world project templates)
 │   ├── Beginner Projects/
 │   │   ├── Data Analysis Portfolio (House Prices, Titanic)
 │   │   ├── ML Pipeline (Classification problem)
@@ -275,7 +275,7 @@ Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/
 │       ├── E-commerce Demand Forecasting
 │       └── Telecom Customer Churn Analysis
 │
-├── 💼 05_JOB_SEARCH_STRATEGY/ (Tactical guide for Morocco market)
+├──  05_JOB_SEARCH_STRATEGY/ (Tactical guide for Morocco market)
 │   ├── Company Research/
 │   │   ├── Top 50 Hiring Companies (with profiles)
 │   │   ├── Salary & Benefits Analysis
@@ -306,7 +306,7 @@ Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/
 │       ├── Salary Benchmarks by Company
 │       └── Relocation Planning (if needed)
 │
-├── 📊 06_DATA_ANALYSIS/ (Real statistics & insights)
+├──  06_DATA_ANALYSIS/ (Real statistics & insights)
 │   ├── Morocco Market Analysis 2025/
 │   │   ├── education_market_gap_analysis.csv
 │   │   ├── morocco_job_market_statistics.csv
@@ -322,7 +322,7 @@ Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/
 │       ├── Full Market Analysis Report
 │       └── 9-Month Roadmap Success Metrics
 │
-├── 🎯 07_INTERVIEW_PREP/ (Structured practice)
+├──  07_INTERVIEW_PREP/ (Structured practice)
 │   ├── Technical Questions Bank/
 │   ├── SQL Problem Set (50+)
 │   ├── Python Coding Challenges
@@ -330,7 +330,7 @@ Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/
 │   ├── System Design Templates
 │   └── Solutions & Explanations
 │
-├── 🤝 08_COMMUNITY_RESOURCES/ (Networking & support)
+├──  08_COMMUNITY_RESOURCES/ (Networking & support)
 │   ├── MDS Community Links
 │   ├── Tech Meetups Calendar
 │   ├── Mentor Directory
@@ -338,7 +338,7 @@ Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/
 │   ├── Slack Community (Coming soon)
 │   └── LinkedIn Alumni Networks
 │
-├── 📚 09_LEARNING_MATERIALS/ (Curated resources)
+├──  09_LEARNING_MATERIALS/ (Curated resources)
 │   ├── Free Courses Library
 │   ├── YouTube Channel Recommendations
 │   ├── Books & eBooks
@@ -346,7 +346,7 @@ Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/
 │   ├── Podcasts & Videos
 │   └── Research Papers
 │
-└── ⚖️ 10_SPECIAL_TOPICS/ (Emerging areas)
+└──  10_SPECIAL_TOPICS/ (Emerging areas)
     ├── Generative AI & LLMs
     ├── MLOps & Production Systems
     ├── Advanced Big Data (Ray, Dask)
@@ -354,7 +354,7 @@ Roadmap-Resources-Engineer-in-Data-Science-Big-Data-AI/
     └── Federated Learning & Privacy
 ```
 
-### 🎯 How to Use This Repository by Your Situation
+###  How to Use This Repository by Your Situation
 
 #### **I'm a Current Student (1-2 Years to Graduation)**
 Start with `/00_ROADMAPS/Long-term-Career-Development` and gradually work through `/01_HARD_SKILLS` and `/02_SOFT_SKILLS` in parallel. Build 1-2 portfolio projects per semester.
@@ -375,7 +375,7 @@ Use the targeted skill tracks in `/01_HARD_SKILLS` to fill specific gaps. Focus 
 
 ---
 
-## 📊 Data-Driven Insights: Why This Approach Works
+##  Data-Driven Insights: Why This Approach Works
 
 Our roadmap is built on **real data analysis** of Morocco's job market. Here are the key findings:
 
@@ -404,7 +404,7 @@ Our roadmap is built on **real data analysis** of Morocco's job market. Here are
 
 ---
 
-## 🚀 What's Inside: Key Resources Overview
+##  What's Inside: Key Resources Overview
 
 ### Hard Skills Training
 - **320+ hours** of structured Python/SQL training
@@ -438,47 +438,47 @@ Our roadmap is built on **real data analysis** of Morocco's job market. Here are
 
 ---
 
-## 🌟 Our Community: Who Should Contribute?
+##  Our Community: Who Should Contribute?
 
 We're building this for **and with** the Moroccan tech community. We need contributors across multiple dimensions:
 
-### 👨‍💻 Developers & Engineers
+###  Developers & Engineers
 - Share code examples and project templates
 - Create tutorials and walkthroughs
 - Contribute interview questions and solutions
 - Review and improve existing materials
 
-### 📚 Data Scientists & ML Engineers
+###  Data Scientists & ML Engineers
 - Share real project experiences
 - Document lessons learned
 - Contribute domain expertise
 - Review technical accuracy
 
-### 🎓 Educators & Mentors
+###  Educators & Mentors
 - Develop learning paths
 - Create course materials
 - Mentor new contributors
 - Review curriculum alignment
 
-### 🌐 Community Leaders
+###  Community Leaders
 - Organize local study groups
 - Connect contributors
 - Share resources in communities
 - Help translate materials
 
-### ✍️ Writers & Content Creators
+###  Writers & Content Creators
 - Create blog posts and case studies
 - Write tutorials
 - Document career journeys
 - Edit and improve content
 
-### 🤝 HR & Recruitment Professionals
+###  HR & Recruitment Professionals
 - Share hiring insights
 - Update company profiles
 - Provide salary benchmarks
 - Contribute interview tips
 
-### 🌍 Anyone with Passion
+###  Anyone with Passion
 - Share your learning journey
 - Suggest improvements
 - Translate resources to Arabic/French
@@ -497,7 +497,7 @@ See our [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 ### Contribution Examples
 
-**✅ Good contributions:**
+** Good contributions:**
 - Add a new project template with full documentation
 - Create a study guide for a certification
 - Fix typos and improve clarity
@@ -505,7 +505,7 @@ See our [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 - Create a tutorial with code examples
 - Translate content to French/Arabic
 
-**❌ Please avoid:**
+** Please avoid:**
 - Commercial promotions or spam
 - Copyrighted material without attribution
 - Low-effort changes without substance
@@ -513,7 +513,7 @@ See our [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-## 📋 License & Attribution
+##  License & Attribution
 
 This project is licensed under the **Creative Commons Attribution 4.0 International License** (CC BY 4.0).
 
@@ -552,7 +552,7 @@ By contributing to this repository, you agree that your contributions will be li
 
 ---
 
-## 📈 Success Stories (Coming Soon)
+##  Success Stories (Coming Soon)
 
 We're collecting success stories from graduates who've used this roadmap. **Have you successfully landed a data science job in Morocco?** Share your story:
 - Time spent on preparation
@@ -564,32 +564,32 @@ We're collecting success stories from graduates who've used this roadmap. **Have
 
 ---
 
-## 🗺️ Roadmap: What's Coming
+##  Roadmap: What's Coming
 
 ### Q4 2025
-- ✅ Complete 9-month roadmap guide
-- ✅ Portfolio project templates (6 projects)
-- ✅ Certification preparation guides
+-  Complete 9-month roadmap guide
+-  Portfolio project templates (6 projects)
+-  Certification preparation guides
 - ⏳ **In progress**: Arabic translations
 - ⏳ **In progress**: Interview question bank
 
 ### Q1 2026
-- 🎯 Advanced MLOps course materials
-- 🎯 Generative AI & LLMs specialization track
-- 🎯 Success metrics dashboard
-- 🎯 Job placement tracker
+-  Advanced MLOps course materials
+-  Generative AI & LLMs specialization track
+-  Success metrics dashboard
+-  Job placement tracker
 
 ### Q2-Q3 2026
-- 📅 Live weekly study sessions
-- 📅 Community mentorship program
-- 📅 Company hiring events
-- 📅 Annual competition (prizes!)
+-  Live weekly study sessions
+-  Community mentorship program
+-  Company hiring events
+-  Annual competition (prizes!)
 
 ### Long-term Vision
-- 🚀 Online learning platform
-- 🚀 Job board integration
-- 🚀 Alumni network
-- 🚀 Corporate partnerships
+-  Online learning platform
+-  Job board integration
+-  Alumni network
+-  Corporate partnerships
 
 ---
 
@@ -631,13 +631,13 @@ This project would not be possible without:
 
 ---
 
-## 📞 Contact & Support
+##  Contact & Support
 
-- 📧 **Email**: (rassaisaid@gmail.com)
-- 💬 **Community Discord**:  (Coming soon)
-- 🐦 **Twitter**: (https://x.com/MoonHeead)
-- 💼 **LinkedIn**: (https://www.linkedin.com/in/said-rassai/)
-- 🌐 **Website**: [moroccands.com](https://rassaisaid.me)
+-  **Email**: (rassaisaid@gmail.com)
+-  **Community Discord**:  (Coming soon)
+-  **Twitter**: (https://x.com/MoonHeead)
+-  **LinkedIn**: (https://www.linkedin.com/in/said-rassai/)
+-  **Website**: [moroccands.com](https://rassaisaid.me)
 
 ---
 
@@ -654,7 +654,7 @@ Together, we're building **Morocco's leading resource for data science engineers
 
 ---
 
-## 📝 Final Message
+##  Final Message
 
 **To every student reading this:**
 
