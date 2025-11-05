@@ -22,7 +22,7 @@
 
 ---
 
-## 📌 Our Mission
+##  Our Mission
 
 **Bridging Morocco's Education-Market Gap in Data Science, Big Data , ML & Artificial Intelligence**
 
@@ -30,7 +30,7 @@ This repository is a **comprehensive, open-source initiative** designed to equip
 
 We believe that **talent is everywhere, but opportunity is not equally distributed**. Students from Moroccan universities often graduate with strong theoretical foundations but face a critical **skills gap** when entering the professional market. This project aims to democratize access to industry-relevant learning materials, proven job-search strategies, and real-world project templates.
 
-### 🎯 Core Objectives
+###  Core Objectives
 
 - **Bridge the education-market skills gap** by providing industry-aligned learning resources
 - **Provide actionable roadmaps** for entering Morocco's competitive data science job market
@@ -41,15 +41,15 @@ We believe that **talent is everywhere, but opportunity is not equally distribut
 
 ---
 
-## 📊 The Problem: Education vs Market Reality
+##  The Problem: Education vs Market Reality
 
 ### Why This Repository Exists
 
 Morocco's data science and AI talent market presents a paradoxical challenge: **massive demand meets severe supply shortages**, yet thousands of qualified graduates struggle to secure their first roles. The root cause? A fundamental **mismatch between what universities teach and what employers hire for**.
 
-### 🔍 The Numbers: Education-Market Skills Gap Analysis
+###  The Numbers: Education-Market Skills Gap Analysis
 
-### 📊 Data-Driven Evidence (2025)
+###  Data-Driven Evidence (2025)
 
 #### Critical Findings
 
@@ -618,7 +618,7 @@ A: Many data engineers succeed with moderate math skills. Focus on practical cod
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 This project would not be possible without:
 
